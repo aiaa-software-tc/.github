@@ -2,7 +2,7 @@
 
 **Scope and Focus**
 
-The AIAA Software Technical Committee (STC) is dedicated to addressing software engineering issues for complex and critical systems throughout their entire lifecycle. This includes all phases from software requirements, design, coding, testing, evaluation, operation, and maintenance.
+The AIAA Software Technical Committee (SWTC) is dedicated to addressing software engineering issues for complex and critical systems throughout their entire lifecycle. This includes all phases from software requirements, design, coding, testing, evaluation, operation, and maintenance.
 
 **Key Activities**
 
